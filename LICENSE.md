@@ -1,4 +1,4 @@
-# 
+# Top Gemini Spark ferramentas. Com integração com banco de dados vetorial e engenharia de prompts — otimizado para máximo desempenho e eficiência.
 
 
 
